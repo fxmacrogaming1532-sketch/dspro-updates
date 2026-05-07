@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "1.0.2",
+    "version":  "1.0.3",
     "mandatory":  false,
-    "url":  "https://raw.githubusercontent.com/fxmacrogaming1532-sketch/dspro-updates/main/stable/dspro-1.0.2.zip",
-    "sha256":  "31fa17596288ec9271a1323a0c7deb424d51a21189bb726b76b0e98e0ee03ccc",
-    "notes":  "",
+    "url":  "https://raw.githubusercontent.com/fxmacrogaming1532-sketch/dspro-updates/main/stable/dspro-1.0.3.zip",
+    "sha256":  "8e0473567f165823b44cc8cbf71178aaac5977112c6eb4d7f811bff1cf103bfd",
+    "notes":  "Launcher corrigido para update com arquivos de suporte em uso e cliente nativo protegido.",
     "entryExe":  "DSPRO.exe",
     "launchArgs":  ""
 }
