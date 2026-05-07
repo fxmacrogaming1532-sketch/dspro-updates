@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "1.0.1",
+    "version":  "1.0.2",
     "mandatory":  false,
-    "url":  "https://raw.githubusercontent.com/fxmacrogaming1532-sketch/dspro-updates/main/stable/dspro-1.0.1.zip",
-    "sha256":  "72344c87db97fb6b49b21a99aeaa2d724a9df1288c8d51f1cecdfefa8c89a648",
+    "url":  "https://raw.githubusercontent.com/fxmacrogaming1532-sketch/dspro-updates/main/stable/dspro-1.0.2.zip",
+    "sha256":  "31fa17596288ec9271a1323a0c7deb424d51a21189bb726b76b0e98e0ee03ccc",
     "notes":  "",
     "entryExe":  "DSPRO.exe",
     "launchArgs":  ""
