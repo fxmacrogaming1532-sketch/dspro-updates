@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "1.0.4",
+    "version":  "1.0.5",
     "mandatory":  false,
-    "url":  "https://raw.githubusercontent.com/fxmacrogaming1532-sketch/dspro-updates/main/stable/dspro-1.0.4.zip",
-    "sha256":  "76c727a536fa8db4af31244e3a09fc38ea4484c90867ff1bda6912e7c6cd0842",
-    "notes":  "Corrige abertura do DSPRO no .NET 10: runtime self-contained oculto e DLL protegida pelo Reactor.",
+    "url":  "https://raw.githubusercontent.com/fxmacrogaming1532-sketch/dspro-updates/main/stable/dspro-1.0.5.zip",
+    "sha256":  "9888b5fe07c74020190926ebfc78b89886ec8895ae1b5935b5c77fa8f61460cc",
+    "notes":  "Corrige execução elevada obrigatória, atalhos pelo launcher, passthrough de Start/Guide e aliases de botões para macros/color.",
     "entryExe":  "DSPRO.exe",
     "launchArgs":  ""
 }
