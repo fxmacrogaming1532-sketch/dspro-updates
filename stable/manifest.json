@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "1.0.7",
+    "version":  "1.0.8",
     "mandatory":  false,
-    "url":  "https://raw.githubusercontent.com/fxmacrogaming1532-sketch/dspro-updates/main/stable/dspro-1.0.7.zip",
-    "sha256":  "2896073a1dd534dc70f6ebe9d5ce98af6dea98dbb16a854ec6bc06a7e9687250",
-    "notes":  "Corrige HidHide: aplica ocultacao logo apos login, retenta se falhar e troca automaticamente para o controle Sony fisico presente.",
+    "url":  "https://raw.githubusercontent.com/fxmacrogaming1532-sketch/dspro-updates/main/stable/dspro-1.0.8.zip",
+    "sha256":  "925f1a5c28d0b72befac90227ce0ec27f46bd98cd80b529c53e57ac9c19f5037",
+    "notes":  "Corrige parser do HidHide para esconder o DS4 fisico corretamente e valida cloak/dev-list antes de liberar macros.",
     "entryExe":  "DSPRO.exe",
     "launchArgs":  ""
 }
