@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "1.0.8",
+    "version":  "1.0.9",
     "mandatory":  false,
-    "url":  "https://raw.githubusercontent.com/fxmacrogaming1532-sketch/dspro-updates/main/stable/dspro-1.0.8.zip",
-    "sha256":  "925f1a5c28d0b72befac90227ce0ec27f46bd98cd80b529c53e57ac9c19f5037",
-    "notes":  "Corrige parser do HidHide para esconder o DS4 fisico corretamente e valida cloak/dev-list antes de liberar macros.",
+    "url":  "https://raw.githubusercontent.com/fxmacrogaming1532-sketch/dspro-updates/main/stable/dspro-1.0.9.zip",
+    "sha256":  "48b94da8b5dc68e56b3a70759ebda2c78129d0b161704d3e72589d3dd7255e6b",
+    "notes":  "Corrige inicializacao com controle ja conectado: prende o leitor fisico antes de ligar HidHide e limpa estado antigo ao abrir.",
     "entryExe":  "DSPRO.exe",
     "launchArgs":  ""
 }
