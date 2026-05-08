@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "1.0.6",
+    "version":  "1.0.7",
     "mandatory":  false,
-    "url":  "https://raw.githubusercontent.com/fxmacrogaming1532-sketch/dspro-updates/main/stable/dspro-1.0.6.zip",
-    "sha256":  "61d4625d3b2630a79c5ff60eb5ba3619c3a7e90dd56cfc6bb120982064530958",
-    "notes":  "Corrige execução elevada obrigatória, atalhos pelo launcher, Start/Guide reservados ao DSPRO e aliases de botões para macros/color.",
+    "url":  "https://raw.githubusercontent.com/fxmacrogaming1532-sketch/dspro-updates/main/stable/dspro-1.0.7.zip",
+    "sha256":  "2896073a1dd534dc70f6ebe9d5ce98af6dea98dbb16a854ec6bc06a7e9687250",
+    "notes":  "Corrige HidHide: aplica ocultacao logo apos login, retenta se falhar e troca automaticamente para o controle Sony fisico presente.",
     "entryExe":  "DSPRO.exe",
     "launchArgs":  ""
 }
