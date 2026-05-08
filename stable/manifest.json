@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "1.0.10",
+    "version":  "1.0.11",
     "mandatory":  false,
-    "url":  "https://raw.githubusercontent.com/fxmacrogaming1532-sketch/dspro-updates/main/stable/dspro-1.0.10.zip",
-    "sha256":  "3e2a0bdda9c976c53635e860a0e4712ab03587954f671921d71ab43618bd5d06",
-    "notes":  "Corrige fullscreen: Start volta para o jogo e o atalho do DSPRO agora exige Guide/PS/Xbox + Start segurado.",
+    "url":  "https://raw.githubusercontent.com/fxmacrogaming1532-sketch/dspro-updates/main/stable/dspro-1.0.11.zip",
+    "sha256":  "e7e85df83ecbc1465ab519a54529142c6827c32fb52cffb58ac4b8c4a5320a31",
+    "notes":  "Corrige leitura do controle ja conectado, recria reader apos HidHide e neutraliza eixos/macros quando o report fisico fica velho para evitar drift preso.",
     "entryExe":  "DSPRO.exe",
     "launchArgs":  ""
 }
