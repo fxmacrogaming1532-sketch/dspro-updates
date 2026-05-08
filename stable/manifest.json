@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "1.0.9",
+    "version":  "1.0.10",
     "mandatory":  false,
-    "url":  "https://raw.githubusercontent.com/fxmacrogaming1532-sketch/dspro-updates/main/stable/dspro-1.0.9.zip",
-    "sha256":  "48b94da8b5dc68e56b3a70759ebda2c78129d0b161704d3e72589d3dd7255e6b",
-    "notes":  "Corrige inicializacao com controle ja conectado: prende o leitor fisico antes de ligar HidHide e limpa estado antigo ao abrir.",
+    "url":  "https://raw.githubusercontent.com/fxmacrogaming1532-sketch/dspro-updates/main/stable/dspro-1.0.10.zip",
+    "sha256":  "3e2a0bdda9c976c53635e860a0e4712ab03587954f671921d71ab43618bd5d06",
+    "notes":  "Corrige fullscreen: Start volta para o jogo e o atalho do DSPRO agora exige Guide/PS/Xbox + Start segurado.",
     "entryExe":  "DSPRO.exe",
     "launchArgs":  ""
 }
