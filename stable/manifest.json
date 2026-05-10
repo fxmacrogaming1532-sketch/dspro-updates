@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "1.0.11",
+    "version":  "1.0.12",
     "mandatory":  false,
-    "url":  "https://raw.githubusercontent.com/fxmacrogaming1532-sketch/dspro-updates/main/stable/dspro-1.0.11.zip",
-    "sha256":  "e7e85df83ecbc1465ab519a54529142c6827c32fb52cffb58ac4b8c4a5320a31",
-    "notes":  "Corrige leitura do controle ja conectado, recria reader apos HidHide e neutraliza eixos/macros quando o report fisico fica velho para evitar drift preso.",
+    "url":  "https://raw.githubusercontent.com/fxmacrogaming1532-sketch/dspro-updates/main/stable/dspro-1.0.12.zip",
+    "sha256":  "afd0cfa57980281c0b36918b9c1f0690b9a4a81261c8b0ec0b370fc933fe37a9",
+    "notes":  "Bloqueia a navegacao por controle do app quando DSPRO esta em segundo plano, evitando cursor/cliques alterando macros durante o jogo.",
     "entryExe":  "DSPRO.exe",
     "launchArgs":  ""
 }
