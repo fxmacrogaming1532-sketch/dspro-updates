@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "1.0.12",
+    "version":  "1.0.13",
     "mandatory":  false,
-    "url":  "https://raw.githubusercontent.com/fxmacrogaming1532-sketch/dspro-updates/main/stable/dspro-1.0.12.zip",
-    "sha256":  "afd0cfa57980281c0b36918b9c1f0690b9a4a81261c8b0ec0b370fc933fe37a9",
-    "notes":  "Bloqueia a navegacao por controle do app quando DSPRO esta em segundo plano, evitando cursor/cliques alterando macros durante o jogo.",
+    "url":  "https://raw.githubusercontent.com/fxmacrogaming1532-sketch/dspro-updates/main/stable/dspro-1.0.13.zip",
+    "sha256":  "5b3ffd9c629c687ebd265b4312761d2f0be5ecb320834c8e071d1305becc81af",
+    "notes":  "Nova tela de macros recolhida quando desligado, Auto Ping travado no ping padrao do Warzone e YY estabilizado para completar os dois toques.",
     "entryExe":  "DSPRO.exe",
     "launchArgs":  ""
 }
