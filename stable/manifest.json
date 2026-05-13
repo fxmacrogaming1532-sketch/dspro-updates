@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "1.0.13",
+    "version":  "1.0.14",
     "mandatory":  false,
-    "url":  "https://raw.githubusercontent.com/fxmacrogaming1532-sketch/dspro-updates/main/stable/dspro-1.0.13.zip",
-    "sha256":  "5b3ffd9c629c687ebd265b4312761d2f0be5ecb320834c8e071d1305becc81af",
-    "notes":  "Nova tela de macros recolhida quando desligado, Auto Ping travado no ping padrao do Warzone e YY estabilizado para completar os dois toques.",
+    "url":  "https://raw.githubusercontent.com/fxmacrogaming1532-sketch/dspro-updates/main/stable/dspro-1.0.14.zip",
+    "sha256":  "f205e63eeebf33ff64e65e3f6d6188fc2a939069bad84e15d2af818ad7affb30",
+    "notes":  "Hotfix visual: macros em colunas independentes e animacao suave ao abrir e fechar os ajustes.",
     "entryExe":  "DSPRO.exe",
     "launchArgs":  ""
 }
