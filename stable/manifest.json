@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "1.0.14",
+    "version":  "1.0.15",
     "mandatory":  false,
-    "url":  "https://raw.githubusercontent.com/fxmacrogaming1532-sketch/dspro-updates/main/stable/dspro-1.0.14.zip",
-    "sha256":  "f205e63eeebf33ff64e65e3f6d6188fc2a939069bad84e15d2af818ad7affb30",
-    "notes":  "Hotfix visual: macros em colunas independentes e animacao suave ao abrir e fechar os ajustes.",
+    "url":  "https://raw.githubusercontent.com/fxmacrogaming1532-sketch/dspro-updates/main/stable/dspro-1.0.15.zip",
+    "sha256":  "6248062192b8e226a32b82df73f5371383dbb6c98697b31d8115df3b7156bf74",
+    "notes":  "Transicao animada entre abas e menu rapido por duplo clique no botao PS/Xbox para ajustes em jogo.",
     "entryExe":  "DSPRO.exe",
     "launchArgs":  ""
 }
