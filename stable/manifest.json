@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "1.0.17",
+    "version":  "1.0.18",
     "mandatory":  false,
-    "url":  "https://raw.githubusercontent.com/fxmacrogaming1532-sketch/dspro-updates/main/stable/dspro-1.0.17.zip",
-    "sha256":  "bd14d0568a1581cb855ca670fc4b8148643f0923ff093f08c96aa7c2c61a9d34",
-    "notes":  "Config do botao PS/Xbox, bloqueio de navegacao do app em segundo plano e ajuste do streamer mode.",
+    "url":  "https://raw.githubusercontent.com/fxmacrogaming1532-sketch/dspro-updates/main/stable/dspro-1.0.18.zip",
+    "sha256":  "68b0d46228ab3640b71d8a0bdadcc75516eda406f5a5b0f1d882069f0dd4705a",
+    "notes":  "DSPRO Quick reorganizado em cards separados por macro.",
     "entryExe":  "DSPRO.exe",
     "launchArgs":  ""
 }
