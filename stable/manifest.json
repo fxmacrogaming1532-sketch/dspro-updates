@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "1.0.19",
+    "version":  "1.0.20",
     "mandatory":  false,
-    "url":  "https://raw.githubusercontent.com/fxmacrogaming1532-sketch/dspro-updates/main/stable/dspro-1.0.19.zip",
-    "sha256":  "e2d3969d7fcfd091349786c4435409380287253eab45212c695ee8e7d4f3ba15",
-    "notes":  "Corrige falhas intermitentes na emulacao do controle e estabiliza o envio do virtual Xbox.",
+    "url":  "https://raw.githubusercontent.com/fxmacrogaming1532-sketch/dspro-updates/main/stable/dspro-1.0.20.zip",
+    "sha256":  "44f120d19d8008e1a3180c99e82c441a348e8b039392d545a81f030cc37efcb0",
+    "notes":  "Adiciona transicao suave no DSPRO Quick, sincroniza toggles entre quick e painel principal, e estabiliza o FOV ao alternar para jogos em tela cheia.",
     "entryExe":  "DSPRO.exe",
     "launchArgs":  ""
 }
