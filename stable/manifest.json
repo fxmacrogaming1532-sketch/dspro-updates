@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "1.0.16",
+    "version":  "1.0.17",
     "mandatory":  false,
-    "url":  "https://raw.githubusercontent.com/fxmacrogaming1532-sketch/dspro-updates/main/stable/dspro-1.0.16.zip",
-    "sha256":  "951bc2112ab098990e4bf8aabb1225640bdbe2cbb19486f10988d306c2e61424",
-    "notes":  "Transicao animada entre abas, menu rapido por duplo clique no botao PS/Xbox e posicionamento no monitor do jogo.",
+    "url":  "https://raw.githubusercontent.com/fxmacrogaming1532-sketch/dspro-updates/main/stable/dspro-1.0.17.zip",
+    "sha256":  "bd14d0568a1581cb855ca670fc4b8148643f0923ff093f08c96aa7c2c61a9d34",
+    "notes":  "Config do botao PS/Xbox, bloqueio de navegacao do app em segundo plano e ajuste do streamer mode.",
     "entryExe":  "DSPRO.exe",
     "launchArgs":  ""
 }
