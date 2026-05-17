@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "1.0.20",
+    "version":  "1.0.21",
     "mandatory":  false,
-    "url":  "https://raw.githubusercontent.com/fxmacrogaming1532-sketch/dspro-updates/main/stable/dspro-1.0.20.zip",
-    "sha256":  "44f120d19d8008e1a3180c99e82c441a348e8b039392d545a81f030cc37efcb0",
-    "notes":  "Adiciona transicao suave no DSPRO Quick, sincroniza toggles entre quick e painel principal, e estabiliza o FOV ao alternar para jogos em tela cheia.",
+    "url":  "https://raw.githubusercontent.com/fxmacrogaming1532-sketch/dspro-updates/main/stable/dspro-1.0.21.zip",
+    "sha256":  "ab7bf326a9284825ded7d4888c6308c57b6a830a8e788e59da5662bf3eadd440",
+    "notes":  "Reforca o Less Recoil, aumenta o limite vertical para armas com recuo mais forte e mantem os ajustes sincronizados no painel principal e no DSPRO Quick.",
     "entryExe":  "DSPRO.exe",
     "launchArgs":  ""
 }
