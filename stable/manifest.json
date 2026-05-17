@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "1.0.21",
+    "version":  "1.0.22",
     "mandatory":  false,
-    "url":  "https://raw.githubusercontent.com/fxmacrogaming1532-sketch/dspro-updates/main/stable/dspro-1.0.21.zip",
-    "sha256":  "ab7bf326a9284825ded7d4888c6308c57b6a830a8e788e59da5662bf3eadd440",
-    "notes":  "Reforca o Less Recoil, aumenta o limite vertical para armas com recuo mais forte e mantem os ajustes sincronizados no painel principal e no DSPRO Quick.",
+    "url":  "https://raw.githubusercontent.com/fxmacrogaming1532-sketch/dspro-updates/main/stable/dspro-1.0.22.zip",
+    "sha256":  "6fb252c9810bd32f09bb5fbb35d638499efd77df0f552e9404a49736a3a4badb",
+    "notes":  "Corrige inicializacao do controle virtual e reaplicacao do HidHide para o jogo enxergar o Xbox virtual e esconder o controle fisico.",
     "entryExe":  "DSPRO.exe",
     "launchArgs":  ""
 }
