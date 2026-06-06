@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "1.0.22",
+    "version":  "1.0.23",
     "mandatory":  false,
-    "url":  "https://raw.githubusercontent.com/fxmacrogaming1532-sketch/dspro-updates/main/stable/dspro-1.0.22.zip",
-    "sha256":  "6fb252c9810bd32f09bb5fbb35d638499efd77df0f552e9404a49736a3a4badb",
-    "notes":  "Corrige inicializacao do controle virtual e reaplicacao do HidHide para o jogo enxergar o Xbox virtual e esconder o controle fisico.",
+    "url":  "https://raw.githubusercontent.com/fxmacrogaming1532-sketch/dspro-updates/main/stable/dspro-1.0.23.zip",
+    "sha256":  "d3f904bb6baca52f5a6a9ce2b10658290c0e04a2e9b981b3270e06cfaa38149b",
+    "notes":  "Adiciona suporte a RB/R1 e LB/L1 como botoes de tiro, mira e ativacao nos macros e no Color Assist.",
     "entryExe":  "DSPRO.exe",
     "launchArgs":  ""
 }
