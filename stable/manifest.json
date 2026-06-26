@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "1.0.23",
+    "version":  "1.0.24",
     "mandatory":  false,
-    "url":  "https://raw.githubusercontent.com/fxmacrogaming1532-sketch/dspro-updates/main/stable/dspro-1.0.23.zip",
-    "sha256":  "d3f904bb6baca52f5a6a9ce2b10658290c0e04a2e9b981b3270e06cfaa38149b",
-    "notes":  "Adiciona suporte a RB/R1 e LB/L1 como botoes de tiro, mira e ativacao nos macros e no Color Assist.",
+    "url":  "https://raw.githubusercontent.com/fxmacrogaming1532-sketch/dspro-updates/main/stable/dspro-1.0.24.zip",
+    "sha256":  "b65274db0095e4f1881834020b9b122c07d6e7801e2818cda816acb4cb782697",
+    "notes":  "",
     "entryExe":  "DSPRO.exe",
     "launchArgs":  ""
 }
